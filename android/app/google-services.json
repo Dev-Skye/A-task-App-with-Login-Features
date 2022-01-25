@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "700133444532",
+    "project_id": "loginpage-31ffe",
+    "storage_bucket": "loginpage-31ffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700133444532:android:8e841ecfa50a88ad0080e1",
+        "android_client_info": {
+          "package_name": "com.skye.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700133444532-23500m43j6shp817jhc0kr3ooq907fp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDmNx9kVkit59MEgoaSksHWUa-et2TKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700133444532-23500m43j6shp817jhc0kr3ooq907fp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700133444532:android:361c2356eb650c0b0080e1",
+        "android_client_info": {
+          "package_name": "com.skye.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700133444532-23500m43j6shp817jhc0kr3ooq907fp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDmNx9kVkit59MEgoaSksHWUa-et2TKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700133444532-23500m43j6shp817jhc0kr3ooq907fp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
